@@ -1,0 +1,43 @@
+
+.employee-form {
+  max-width: 400px;
+  margin: 25px auto;
+  padding: 25px;
+  background: #e3f2fd;
+  border-radius: 10px;
+  box-shadow: 0 0 8px #aaa;
+}
+
+.employee-form h2 {
+  text-align: center;
+  color: darkblue;
+}
+
+.employee-form label {
+  display: block;
+  margin-top: 12px;
+  font-weight: bold;
+}
+
+.employee-form input,
+.employee-form select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  box-sizing: border-box;
+}
+
+.employee-form button {
+  width: 100%;
+  padding: 11px;
+  margin-top: 18px;
+  background: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.employee-form .cancel-btn {
+  background: gray;
+}

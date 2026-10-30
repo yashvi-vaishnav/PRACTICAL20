@@ -1,0 +1,14 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f5f7fa;
+}
+
+.heading {
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+  background: darkblue;
+  color: white;
+}
